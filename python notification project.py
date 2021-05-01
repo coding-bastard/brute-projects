@@ -9,4 +9,4 @@ if __name__=="__main__":
             app_icon="C:\\Users\\WIndows\\Desktop\\New folder\\gallery\\icon.ico",
             timeout=2
         )
-        time.sleep(6)
+        time.sleep(6)#adjust time according to need
